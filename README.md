@@ -1,5 +1,5 @@
 # j2objSimplex
-Academic and minimalist simplex algorithm with two objectives.
+An academic and minimalist implementation of the simplex algorithm with two linear objectives.
 
 This code is an extended version of the single objective simplex algorithm's implementation described in chapter 5 of [Julia programming for Operations Research (Changhyun Kwon)](http://www.chkwon.net/julia/). 
 
