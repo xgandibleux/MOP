@@ -5,4 +5,4 @@ This code is an extended version of the single objective simplex algorithm's imp
 
 The version corresponds to the simplex parametric which handles two linear objectives.
 
-This implementation has been done for teaching purposes. Comments are partially written in french. Notations are compliant with the lecture notes of "Integer Programming" (track "optimization in operations research" of the master in computer science, University of Nantes, France).
+This implementation has been done for teaching purposes. Comments are partially written in french. Notations are compliant with the lecture notes of ["Integer Programming" (track "optimization in operations research" of the master in computer science, University of Nantes, France)](http://oro.univ-nantes.fr/programme/program-of-study-2017-2021).
